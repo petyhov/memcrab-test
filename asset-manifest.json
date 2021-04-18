@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/memcrab-test/static/js/main.36af5477.chunk.js",
+    "main.js.map": "/memcrab-test/static/js/main.36af5477.chunk.js.map",
+    "runtime-main.js": "/memcrab-test/static/js/runtime-main.aa7e9a71.js",
+    "runtime-main.js.map": "/memcrab-test/static/js/runtime-main.aa7e9a71.js.map",
+    "static/js/2.cde4fcff.chunk.js": "/memcrab-test/static/js/2.cde4fcff.chunk.js",
+    "static/js/2.cde4fcff.chunk.js.map": "/memcrab-test/static/js/2.cde4fcff.chunk.js.map",
+    "index.html": "/memcrab-test/index.html",
+    "static/js/2.cde4fcff.chunk.js.LICENSE.txt": "/memcrab-test/static/js/2.cde4fcff.chunk.js.LICENSE.txt",
+    "static/media/minus.98df231b.svg": "/memcrab-test/static/media/minus.98df231b.svg",
+    "static/media/plus.7c09677b.svg": "/memcrab-test/static/media/plus.7c09677b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa7e9a71.js",
+    "static/js/2.cde4fcff.chunk.js",
+    "static/js/main.36af5477.chunk.js"
+  ]
+}
